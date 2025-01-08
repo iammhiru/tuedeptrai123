@@ -1,0 +1,7 @@
+21:26:23 **** Build of configuration Debug for project STM32F429I-Oscilloscope ****
+make -j16 all 
+make: *** No rule to make target 'C:/TouchGFXProjects/Discovery_Oscilloscope/Core/Src/Updage_Graph.c', needed by 'Application/User/Updage_Graph.o'.  Stop.
+"make -j16 all" terminated with exit code 2. Build might be incomplete.
+
+21:26:24 Build Failed. 1 errors, 0 warnings. (took 1s.221ms)
+
